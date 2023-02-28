@@ -18,8 +18,11 @@
             //BubbleSort bubbleSort = new BubbleSort();
             //bubbleSort.Bubble();
 
-            MergeSort mergeSort = new MergeSort();
-            mergeSort.Display();
+            //MergeSort mergeSort = new MergeSort();
+            //mergeSort.Display();
+
+            Anagram anagram = new Anagram();
+            anagram.anagram();
         }
     }
 }
