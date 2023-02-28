@@ -21,8 +21,11 @@
             //MergeSort mergeSort = new MergeSort();
             //mergeSort.Display();
 
-            Anagram anagram = new Anagram();
-            anagram.anagram();
+            //Anagram anagram = new Anagram();
+            //anagram.anagram();
+
+            PrimeRange primesRange = new PrimeRange();
+            primesRange.Prime();
         }
     }
 }
