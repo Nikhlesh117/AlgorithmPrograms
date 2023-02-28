@@ -24,8 +24,11 @@
             //Anagram anagram = new Anagram();
             //anagram.anagram();
 
-            PrimeRange primesRange = new PrimeRange();
-            primesRange.Prime();
+            //PrimeRange primesRange = new PrimeRange();
+            //primesRange.Prime();
+
+            FindYourNumber findYourNumber = new FindYourNumber();
+            findYourNumber.Find();
         }
     }
 }
