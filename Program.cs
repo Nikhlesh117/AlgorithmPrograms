@@ -9,8 +9,11 @@
             //PermutationsOfString permute = new PermutationsOfString();
             //permute.Display();
 
-            BinarySearch binarySearchWord = new BinarySearch();
-            binarySearchWord.Display();
+            //BinarySearch binarySearchWord = new BinarySearch();
+            //binarySearchWord.Display();
+
+            InsertionSort insertionSort = new InsertionSort();
+            insertionSort.Insertion();
         }
     }
 }
