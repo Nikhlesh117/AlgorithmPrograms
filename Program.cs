@@ -15,8 +15,11 @@
             //InsertionSort insertionSort = new InsertionSort();
             //insertionSort.Insertion();
 
-            BubbleSort bubbleSort = new BubbleSort();
-            bubbleSort.Bubble();
+            //BubbleSort bubbleSort = new BubbleSort();
+            //bubbleSort.Bubble();
+
+            MergeSort mergeSort = new MergeSort();
+            mergeSort.Display();
         }
     }
 }
