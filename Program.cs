@@ -6,8 +6,11 @@
         {
             Console.WriteLine("Welcome to the Algorithm Programss");
 
-            PermutationsOfString permute = new PermutationsOfString();
-            permute.Display();
+            //PermutationsOfString permute = new PermutationsOfString();
+            //permute.Display();
+
+            BinarySearch binarySearchWord = new BinarySearch();
+            binarySearchWord.Display();
         }
     }
 }
