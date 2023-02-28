@@ -12,8 +12,11 @@
             //BinarySearch binarySearchWord = new BinarySearch();
             //binarySearchWord.Display();
 
-            InsertionSort insertionSort = new InsertionSort();
-            insertionSort.Insertion();
+            //InsertionSort insertionSort = new InsertionSort();
+            //insertionSort.Insertion();
+
+            BubbleSort bubbleSort = new BubbleSort();
+            bubbleSort.Bubble();
         }
     }
 }
