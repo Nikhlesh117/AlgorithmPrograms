@@ -12,7 +12,7 @@ namespace Algorithm
         {
             InsertionSort insertionSort = new InsertionSort();
 
-            Console.Write("Enter integer values one by one separated by spaces : ");
+            Console.Write("Enter integer values one by one separated by space : ");
             string[] strings = Console.ReadLine().Split();
 
             int[] arr = new int[strings.Length];
