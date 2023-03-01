@@ -27,8 +27,16 @@
             //PrimeRange primesRange = new PrimeRange();
             //primesRange.Prime();
 
-            FindYourNumber findYourNumber = new FindYourNumber();
-            findYourNumber.Find();
+            //FindYourNumber findYourNumber = new FindYourNumber();
+            //findYourNumber.Find();
+
+            //GenericsSearchAndSort sort= new GenericsSearchAndSort();
+
+            int[] array = { 78, 55, 45, 98, 13 };
+
+            GenericsSearchAndSort.BubbleSort(array);
+
+
         }
     }
 }
